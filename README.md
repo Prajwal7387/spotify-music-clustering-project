@@ -18,5 +18,4 @@ Features Included:
 - Cluster profile analysis
 - Music recommendation system
 
-Run the `project.py` file to execute the full project.
-Dataset: `spo.csv`
+
